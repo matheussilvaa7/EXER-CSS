@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(tititititmacaod_r_widexl.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  font-family: "Zilla Slab", serif;
+  font-weight: 300;
+  font-style: normal;
+
+}
+
+.zilla-slab-regular {
+  font-family: "Zilla Slab", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.zilla-slab-medium {
+  font-family: "Zilla Slab", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.zilla-slab-semibold {
+  font-family: "Zilla Slab", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.zilla-slab-bold {
+  font-family: "Zilla Slab", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.zilla-slab-light-italic {
+  font-family: "Zilla Slab", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.zilla-slab-regular-italic {
+  font-family: "Zilla Slab", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.zilla-slab-medium-italic {
+  font-family: "Zilla Slab", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.zilla-slab-semibold-italic {
+  font-family: "Zilla Slab", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.zilla-slab-bold-italic {
+  font-family: "Zilla Slab", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.p* {
+  font-size: 20px;
+}
+
+.sccp {
+  text-align: center;
+}
+
+nav {
+  background-color: rgb(45, 44, 44);
+  height: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  font-style: rgb(45, 44, 44);
+}
+
+h1 {
+  text-align: center;
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+nav a {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+.churipa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.churipa img{
+  width: 800px;
+}
